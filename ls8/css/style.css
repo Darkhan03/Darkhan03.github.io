@@ -1,0 +1,11 @@
+.box {
+	height: 50px;
+	border: 2px solid red;
+	margin-top: 10px;
+}
+
+.box-mini {
+	height: 25px;
+	background-color: #ccc;
+	margin-top: 10px;
+}
