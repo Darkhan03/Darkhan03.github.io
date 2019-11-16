@@ -1,0 +1,20 @@
+.font(@fz: 20px) {
+	font-size: @fz;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+@background: #fff;
+
+.header {
+	.font(15px);
+	background-color: @background;
+
+	span {
+		font-size: 20px;
+	}
+
+	&:hover {
+		background-color: red;
+	}
+}
