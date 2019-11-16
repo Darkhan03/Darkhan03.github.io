@@ -1,0 +1,26 @@
+@import url('main.css');
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline; /* line-through */
+}
+
+.HP {
+	color: rgba(255, 0, 0, 0.4);
+	text-align: justify;
+	border: 2px solid red;
+}
+
+#TK {
+	color: red;
+}
+
+.header .block5 {
+	color: yellow;
+}
+
+a {
+	color: blue;
+	display: block;
+}
