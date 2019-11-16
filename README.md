@@ -3,4 +3,4 @@
 
 [Урок 1 и Урок 2](Darkhan03.github.io/Ls_1and2/ "Урок 1 и Урок 2") - HTML и CSS
 
-[Урок 1 и Урок 2](https://darkhan03.github.io/Ls6/ "Урок 1 и Урок 2") - Позицианирование
+[Урок 6](https://darkhan03.github.io/Ls6/ "Урок 1 и Урок 2") - Позицианирование
