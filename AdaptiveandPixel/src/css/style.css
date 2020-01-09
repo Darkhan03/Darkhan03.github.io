@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	background-color: #ebf4f4;
+}
+
+.box {
+	margin: 100px 125px;
+	width: 320px;
+	height: 370px;
+	background-color: #fff;
+	padding: 40px 20px;
+}
+.box2 {
+	position: absolute;
+	margin-top: -5px;
+	margin-left: 135px;
+	width: 150px;
+	height: 25px;
+	background-color: #01b3b3;
+}
+
+p {
+	text-align: left;
+	font-size: 16px;
+}
+
+button {
+	margin-top: 20px;
+	background-color: #01b3b3;
+}
+
+.minip {
+	font-size: 13px;
+	text-align: center;
+	color: white;
+}
+
