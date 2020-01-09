@@ -10,3 +10,5 @@
 [Урок 8](https://darkhan03.github.io/ls8/ "Урок 8") - Знакомства с Бустрап 
 
 [Урок 9](https://darkhan03.github.io/ls9/ "Урок 9") - Сайт из 7 урока но с помощью Бустрапа 
+
+[Урок 13] (https://Darkhan03.github.io/AdaptiveandPixel/ "Урок 13") - Сайт на урок 13
